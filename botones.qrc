@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>buttons/buscar.png</file>
+        <file>buttons/eliminar final.png</file>
+        <file>buttons/eliminar inicio.png</file>
+        <file>buttons/pausa.png</file>
+        <file>buttons/reproducir.png</file>
+        <file>buttons/agregar.png</file>
+        <file>buttons/siguiente.png</file>
+        <file>buttons/anterior.png</file>
+        <file>buttons/parar.png</file>
+        <file>buttons/mute.png</file>
+    </qresource>
+</RCC>
